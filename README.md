@@ -258,3 +258,5 @@ O foco é acelerar o processo de aprendizagem através da prática contínua e r
 # 👨‍💻 Autor
 
 Projeto desenvolvido para fins acadêmicos, prática em programação Python e otimização do aprendizado com Inteligência Artificial.
+
+https://notebooklm.google.com/notebook/20c2cd6a-f3b6-474a-9a9a-0fc60c8cb7bc
